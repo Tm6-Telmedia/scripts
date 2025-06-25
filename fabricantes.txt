@@ -1,0 +1,18 @@
+axis	Axis Communications AB	1984	Lund, Suecia	Fabricante sueco de cámaras de red.
+fortinet	Fortinet	2000	Sunnyvale, CA, USA	Multinacional se dedica al desarrollo y la comercialización de software.
+ismart	iSmart Video Tech Co., Ltd.	2004	Hangzhou, China	Empresa de alta tecnología en audio y video
+ruckus	Ruckus Wireless	2002	Sunnyvale, CA, USA	Marca de equipos y software de redes alámbricas e inalámbricas de CommScope
+corning	Corning Incorporated	1851	Oficinas centrales: Corning, N.Y., USA	Fabricante de tecnologias, productos, accesorios y componentes de fibra optica.
+hewlett	Hewlett Packard Enterprise Company	2015	Spring, TX, USA	Fabricación y comercialización de hardware y software 
+leviton	Leviton Manufacturing Company, Inc.	1906	Melville, N.Y., USA	Fabricante de equipos de cableado eléctrico
+panduit	Panduit	1955	Tinley Park, IL, USA.	Empresa de infraestructura eléctrica y de red industrial
+systimax	SYSTIMAX Structured Cabling Systems	1992	Hickory USA	La principal solución de cableado estructurado de cobre y fibra de CommScope
+tp	TP-Link Technologies CO.	1996	Shenzhen, China	Proveedor global de productos para redes informáticas, fabricante de redes SOHO
+commscope	CommScope Inc	1976	Hickory, NC, USA	Dedicada a crear las redes alámbricas e inalámbricas más avanzadas del mundo.
+aruba	Aruba Networks	2002	Santa Clara, CA, USA	Subsidiaria de redes inalámbricas de la empresa Hewlett Packard Enterprise
+adata	ADATA Technology	2001	Chung Ho City, Taipéi, Taiwán	Su principal línea de productos consta de módulos DRAM, unidades de memorias USB y tarjetas de memoria de los formatos CompactFlash y Secure Digital
+belden	Belden Inc.	1902	San Luis (Misuri) (‎USA‎)‎	Fabricante estadounidense de soluciones de transmisión de señales, incluyendo la creación de redes, conectividad y productos de cable.
+planet	PLANET Technology Corporation	1993 	Nuevo Taipéi, Taiwán	Proveedor global líder de productos y soluciones de redes basadas en IP para pequeñas y medianas empresas, empresas e infraestructuras de red de aplicaciones IoT, IIoT e IoV.
+te	TE Connectivity, Ltd	1941	Schaffhausen, Suiza	líder global de componentes electrónicos de ingeniería, soluciones de redes, sistemas de telecomunicación marinos y bienes de consumo en más de 150 países.
+genericos	Genéricos				
+fluke	Fluke Corporation	1948	Everett, Washington, Estados Unidos	Fabricante de equipos industriales de prueba, medición y diagnóstico.

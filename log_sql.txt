@@ -1,0 +1,474 @@
+29-01-2025 17:34 - Ejecuci鏮 del BULK INSERT iniciada
+Msg 4864, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+Bulk load data conversion error (type mismatch or invalid character for the specified codepage) for row 1, column 5 (id_seq_fm).
+--------------------------------
+29-01-2025 17:34 - Ejecuci鏮 del BULK INSERT iniciada
+Msg 4864, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+Bulk load data conversion error (type mismatch or invalid character for the specified codepage) for row 1, column 5 (id_seq_fm).
+--------------------------------
+29-01-2025 17:36 - Ejecuci鏮 del BULK INSERT iniciada
+
+(24592 rows affected)
+-------------------------------------------------------------
+29-01-2025 17:36 - Ejecuci鏮 del BULK INSERT iniciada
+
+(24592 rows affected)
+-------------------------------------------------------------
+29-01-2025 23:05 - Ejecuci+好 del BULK INSERT iniciada
+
+(24615 rows affected)
+-------------------------------------------------------------
+29-01-2025 23:18 - Ejecuci+好 del BULK INSERT iniciada
+
+(24624 rows affected)
+-------------------------------------------------------------
+29-01-2025 23:23 - Ejecuci+好 del BULK INSERT iniciada
+
+(24624 rows affected)
+-------------------------------------------------------------
+30-01-2025 00:18 - Ejecuci+好 del BULK INSERT iniciada
+
+(24626 rows affected)
+-------------------------------------------------------------
+30-01-2025 21:51 - Ejecuci+好 del BULK INSERT iniciada
+
+(24624 rows affected)
+-------------------------------------------------------------
+31-01-2025 19:43 - Ejecuci+好 del BULK INSERT iniciada
+
+(24624 rows affected)
+-------------------------------------------------------------
+31-01-2025 19:57 - Ejecuci+好 del BULK INSERT iniciada
+Msg 4864, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+Bulk load data conversion error (type mismatch or invalid character for the specified codepage) for row 1, column 3 (id_seq).
+-------------------------------------------------------------
+31-01-2025 19:59 - Ejecuci+好 del BULK INSERT iniciada
+Msg 4864, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+Bulk load data conversion error (type mismatch or invalid character for the specified codepage) for row 1, column 3 (id_seq).
+-------------------------------------------------------------
+31-01-2025 20:32 - Ejecuci+好 del BULK INSERT iniciada
+Msg 4863, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+Bulk load data conversion error (truncation) for row 1, column 4 (d_logo_fabricante).
+-------------------------------------------------------------
+31-01-2025 20:39 - Ejecuci+好 del BULK INSERT iniciada
+Msg 4863, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+Bulk load data conversion error (truncation) for row 1, column 4 (d_logo_fabricante).
+-------------------------------------------------------------
+31-01-2025 20:56 - Ejecuci+好 del BULK INSERT iniciada
+
+(24628 rows affected)
+-------------------------------------------------------------
+31-01-2025 21:08 - Ejecuci+好 del BULK INSERT iniciada
+Msg 4832, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+Bulk load: An unexpected end of file was encountered in the data file.
+Msg 7399, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+The OLE DB provider "BULK" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Msg 7330, Level 16, State 2, Server FM6\SQLEXPRESS8, Line 1
+Cannot fetch a row from OLE DB provider "BULK" for linked server "(null)".
+-------------------------------------------------------------
+31-01-2025 21:12 - Ejecuci+好 del BULK INSERT iniciada
+
+(6226 rows affected)
+-------------------------------------------------------------
+31-01-2025 21:16 - Ejecuci+好 del BULK INSERT iniciada
+
+(24628 rows affected)
+-------------------------------------------------------------
+31-01-2025 22:10 - Ejecuci+好 del BULK INSERT iniciada
+Msg 4863, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+Bulk load data conversion error (truncation) for row 1, column 4 (d_logo_fabricante).
+-------------------------------------------------------------
+31-01-2025 22:28 - Ejecuci+好 del BULK INSERT iniciada
+
+(6227 rows affected)
+-------------------------------------------------------------
+31-01-2025 23:03 - Ejecuci+好 del BULK INSERT iniciada
+
+(24631 rows affected)
+-------------------------------------------------------------
+31-01-2025 23:05 - Ejecuci+好 del BULK INSERT iniciada
+
+(6228 rows affected)
+-------------------------------------------------------------
+01-02-2025 12:02 - Ejecuci+好 del BULK INSERT iniciada
+Msg 4869, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+The bulk load failed. Unexpected NULL value in data file row 90, column 1. The destination column (id_sku) is defined as NOT NULL.
+Msg 4869, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+The bulk load failed. Unexpected NULL value in data file row 177, column 1. The destination column (id_sku) is defined as NOT NULL.
+Msg 4869, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+The bulk load failed. Unexpected NULL value in data file row 178, column 1. The destination column (id_sku) is defined as NOT NULL.
+-------------------------------------------------------------
+01-02-2025 12:08 - Ejecuci+好 del BULK INSERT iniciada
+
+(6228 rows affected)
+-------------------------------------------------------------
+01-02-2025 12:12 - Ejecuci+好 del BULK INSERT iniciada
+
+(24631 rows affected)
+-------------------------------------------------------------
+01-02-2025 12:26 - Ejecuci+好 del BULK INSERT iniciada
+
+(24631 rows affected)
+-------------------------------------------------------------
+01-02-2025 12:46 - Ejecuci+好 del BULK INSERT iniciada
+
+(6228 rows affected)
+-------------------------------------------------------------
+03-02-2025 00:42 - Ejecuci+好 del BULK INSERT iniciada
+
+(24631 rows affected)
+-------------------------------------------------------------
+05-02-2025 22:55 - Ejecuci+好 del BULK INSERT iniciada
+
+(6228 rows affected)
+-------------------------------------------------------------
+05-02-2025 22:56 - Ejecuci+好 del BULK INSERT iniciada
+
+(24700 rows affected)
+-------------------------------------------------------------
+10-02-2025 01:02 - Ejecuci+好 del BULK INSERT iniciada
+
+(6231 rows affected)
+-------------------------------------------------------------
+10-02-2025 01:02 - Ejecuci+好 del BULK INSERT iniciada
+
+(24708 rows affected)
+-------------------------------------------------------------
+10-02-2025 22:38 - Ejecuci+好 del BULK INSERT iniciada
+
+(6239 rows affected)
+-------------------------------------------------------------
+10-02-2025 22:39 - Ejecuci+好 del BULK INSERT iniciada
+
+(24730 rows affected)
+-------------------------------------------------------------
+16-02-2025 11:49 - Ejecuci+好 del BULK INSERT iniciada
+
+(6267 rows affected)
+-------------------------------------------------------------
+16-02-2025 11:50 - Ejecuci+好 del BULK INSERT iniciada
+
+(24912 rows affected)
+-------------------------------------------------------------
+16-02-2025 13:33 - Ejecuci+好 del BULK INSERT iniciada
+
+(6267 rows affected)
+-------------------------------------------------------------
+Msg 4832, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+Bulk load: An unexpected end of file was encountered in the data file.
+Msg 7399, Level 16, State 1, Server FM6\SQLEXPRESS8, Line 1
+The OLE DB provider "BULK" for linked server "(null)" reported an error. The provider did not give any information about the error.
+Msg 7330, Level 16, State 2, Server FM6\SQLEXPRESS8, Line 1
+Cannot fetch a row from OLE DB provider "BULK" for linked server "(null)".
+23-02-2025 00:04 - Ejecuci+好 del BULK INSERT iniciada
+
+(6269 rows affected)
+-------------------------------------------------------------
+23-02-2025 00:05 - Ejecuci+好 del BULK INSERT iniciada
+
+(24939 rows affected)
+-------------------------------------------------------------
+27-02-2025 00:18 - Ejecuci+好 del BULK INSERT iniciada
+
+(6273 rows affected)
+-------------------------------------------------------------
+27-02-2025 00:18 - Ejecuci+好 del BULK INSERT iniciada
+
+(24957 rows affected)
+-------------------------------------------------------------
+03-03-2025 00:49 - Ejecuci+好 del BULK INSERT iniciada
+
+(6287 rows affected)
+-------------------------------------------------------------
+03-03-2025 00:49 - Ejecuci+好 del BULK INSERT iniciada
+
+(25003 rows affected)
+-------------------------------------------------------------
+03-03-2025 17:22 - Ejecuci+好 del BULK INSERT iniciada
+
+(6304 rows affected)
+-------------------------------------------------------------
+03-03-2025 17:23 - Ejecuci+好 del BULK INSERT iniciada
+
+(25197 rows affected)
+-------------------------------------------------------------
+03-03-2025 23:30 - Ejecuci+好 del BULK INSERT iniciada
+
+(6304 rows affected)
+-------------------------------------------------------------
+04-03-2025 00:02 - Ejecuci+好 del BULK INSERT iniciada
+
+(6304 rows affected)
+-------------------------------------------------------------
+05-03-2025 13:17 - Ejecuci+好 del BULK INSERT iniciada
+
+(6306 rows affected)
+-------------------------------------------------------------
+05-03-2025 13:19 - Ejecuci+好 del BULK INSERT iniciada
+
+(25228 rows affected)
+-------------------------------------------------------------
+05-03-2025 19:44 - Ejecuci+好 del BULK INSERT iniciada
+
+(6307 rows affected)
+-------------------------------------------------------------
+05-03-2025 23:05 - Ejecuci+好 del BULK INSERT iniciada
+
+(6307 rows affected)
+-------------------------------------------------------------
+05-03-2025 23:06 - Ejecuci+好 del BULK INSERT iniciada
+
+(25233 rows affected)
+-------------------------------------------------------------
+05-03-2025 23:43 - Ejecuci+好 del BULK INSERT iniciada
+
+(6303 rows affected)
+-------------------------------------------------------------
+05-03-2025 23:46 - Ejecuci+好 del BULK INSERT iniciada
+
+(6303 rows affected)
+-------------------------------------------------------------
+05-03-2025 23:49 - Ejecuci+好 del BULK INSERT iniciada
+
+(6303 rows affected)
+-------------------------------------------------------------
+05-03-2025 23:52 - Ejecuci+好 del BULK INSERT iniciada
+
+(6303 rows affected)
+-------------------------------------------------------------
+10-03-2025 09:57 - Ejecuci+好 del BULK INSERT iniciada
+
+(6307 rows affected)
+-------------------------------------------------------------
+10-03-2025 09:57 - Ejecuci+好 del BULK INSERT iniciada
+
+(25235 rows affected)
+-------------------------------------------------------------
+10-03-2025 10:37 - Ejecuci+好 del BULK INSERT iniciada
+
+(6308 rows affected)
+-------------------------------------------------------------
+10-03-2025 10:37 - Ejecuci+好 del BULK INSERT iniciada
+
+(25237 rows affected)
+-------------------------------------------------------------
+13-03-2025 21:27 - Ejecuci+好 del BULK INSERT iniciada
+
+(6312 rows affected)
+-------------------------------------------------------------
+13-03-2025 21:28 - Ejecuci+好 del BULK INSERT iniciada
+
+(25243 rows affected)
+-------------------------------------------------------------
+18-03-2025 00:27 - Ejecuci+好 del BULK INSERT iniciada
+
+(6317 rows affected)
+-------------------------------------------------------------
+18-03-2025 00:27 - Ejecuci+好 del BULK INSERT iniciada
+
+(25280 rows affected)
+-------------------------------------------------------------
+24-03-2025 08:54 - Ejecuci+好 del BULK INSERT iniciada
+
+(6345 rows affected)
+-------------------------------------------------------------
+24-03-2025 08:54 - Ejecuci+好 del BULK INSERT iniciada
+
+(25313 rows affected)
+-------------------------------------------------------------
+29-03-2025 16:39 - Ejecuci+好 del BULK INSERT iniciada
+
+(6361 rows affected)
+-------------------------------------------------------------
+29-03-2025 16:40 - Ejecuci+好 del BULK INSERT iniciada
+
+(25431 rows affected)
+-------------------------------------------------------------
+29-03-2025 17:30 - Ejecuci+好 del BULK INSERT iniciada
+
+(6365 rows affected)
+-------------------------------------------------------------
+29-03-2025 17:30 - Ejecuci+好 del BULK INSERT iniciada
+
+(25431 rows affected)
+-------------------------------------------------------------
+03-04-2025 09:27 - Ejecuci+好 del BULK INSERT iniciada
+
+(25467 rows affected)
+-------------------------------------------------------------
+08-04-2025 13:23 - Ejecuci+好 del BULK INSERT iniciada
+
+(6400 rows affected)
+-------------------------------------------------------------
+08-04-2025 13:23 - Ejecuci+好 del BULK INSERT iniciada
+
+(25530 rows affected)
+-------------------------------------------------------------
+15-04-2025 17:49 - Ejecuci+好 del BULK INSERT iniciada
+
+(6515 rows affected)
+-------------------------------------------------------------
+15-04-2025 17:51 - Ejecuci+好 del BULK INSERT iniciada
+
+(25930 rows affected)
+-------------------------------------------------------------
+20-04-2025 20:59 - Ejecuci+好 del BULK INSERT iniciada
+
+(6542 rows affected)
+-------------------------------------------------------------
+20-04-2025 21:01 - Ejecuci+好 del BULK INSERT iniciada
+
+(26265 rows affected)
+-------------------------------------------------------------
+24-04-2025 17:47 - Ejecuci+好 del BULK INSERT iniciada
+
+(6634 rows affected)
+-------------------------------------------------------------
+24-04-2025 17:50 - Ejecuci+好 del BULK INSERT iniciada
+
+(28254 rows affected)
+-------------------------------------------------------------
+25-04-2025 15:43 - Ejecuci+好 del BULK INSERT iniciada
+
+(6653 rows affected)
+-------------------------------------------------------------
+30-04-2025 00:54 - Ejecuci+好 del BULK INSERT iniciada
+
+(6827 rows affected)
+-------------------------------------------------------------
+30-04-2025 00:56 - Ejecuci+好 del BULK INSERT iniciada
+
+(28646 rows affected)
+-------------------------------------------------------------
+30-04-2025 11:15 - Ejecuci+好 del BULK INSERT iniciada
+
+(6827 rows affected)
+-------------------------------------------------------------
+01-05-2025 23:42 - Ejecuci+好 del BULK INSERT iniciada
+
+(6857 rows affected)
+-------------------------------------------------------------
+01-05-2025 23:43 - Ejecuci+好 del BULK INSERT iniciada
+
+(29093 rows affected)
+-------------------------------------------------------------
+02-05-2025 18:35 - Ejecuci+好 del BULK INSERT iniciada
+
+(6874 rows affected)
+-------------------------------------------------------------
+02-05-2025 18:37 - Ejecuci+好 del BULK INSERT iniciada
+
+(29345 rows affected)
+-------------------------------------------------------------
+03-05-2025 23:36 - Ejecuci+好 del BULK INSERT iniciada
+
+(6888 rows affected)
+-------------------------------------------------------------
+03-05-2025 23:38 - Ejecuci+好 del BULK INSERT iniciada
+
+(29455 rows affected)
+-------------------------------------------------------------
+05-05-2025 08:17 - Ejecuci+好 del BULK INSERT iniciada
+
+(6887 rows affected)
+-------------------------------------------------------------
+05-05-2025 08:19 - Ejecuci+好 del BULK INSERT iniciada
+
+(6887 rows affected)
+-------------------------------------------------------------
+07-05-2025 00:46 - Ejecuci+好 del BULK INSERT iniciada
+
+(30075 rows affected)
+-------------------------------------------------------------
+11-05-2025 22:32 - Ejecuci+好 del BULK INSERT iniciada
+
+(7029 rows affected)
+-------------------------------------------------------------
+11-05-2025 22:36 - Ejecuci+好 del BULK INSERT iniciada
+
+(30101 rows affected)
+-------------------------------------------------------------
+14-05-2025 18:44 - Ejecuci+好 del BULK INSERT iniciada
+
+(7095 rows affected)
+-------------------------------------------------------------
+14-05-2025 18:53 - Ejecuci+好 del BULK INSERT iniciada
+
+(30328 rows affected)
+-------------------------------------------------------------
+20-05-2025 23:21 - Ejecuci+好 del BULK INSERT iniciada
+
+(7172 rows affected)
+-------------------------------------------------------------
+20-05-2025 23:24 - Ejecuci+好 del BULK INSERT iniciada
+
+(30548 rows affected)
+-------------------------------------------------------------
+26-05-2025 00:34 - Ejecuci+好 del BULK INSERT iniciada
+
+(7364 rows affected)
+-------------------------------------------------------------
+26-05-2025 00:39 - Ejecuci+好 del BULK INSERT iniciada
+
+(30953 rows affected)
+-------------------------------------------------------------
+29-05-2025 22:27 - Ejecuci+好 del BULK INSERT iniciada
+
+(7450 rows affected)
+-------------------------------------------------------------
+29-05-2025 22:31 - Ejecuci+好 del BULK INSERT iniciada
+
+(31642 rows affected)
+-------------------------------------------------------------
+02-06-2025 01:20 - Ejecuci+好 del BULK INSERT iniciada
+
+(7496 rows affected)
+-------------------------------------------------------------
+02-06-2025 01:23 - Ejecuci+好 del BULK INSERT iniciada
+
+(31779 rows affected)
+-------------------------------------------------------------
+04-06-2025 20:39 - Ejecuci+好 del BULK INSERT iniciada
+
+(7607 rows affected)
+-------------------------------------------------------------
+04-06-2025 20:44 - Ejecuci+好 del BULK INSERT iniciada
+
+(31999 rows affected)
+-------------------------------------------------------------
+07-06-2025 11:38 - Ejecuci+好 del BULK INSERT iniciada
+
+(7716 rows affected)
+-------------------------------------------------------------
+07-06-2025 11:43 - Ejecuci+好 del BULK INSERT iniciada
+
+(32543 rows affected)
+-------------------------------------------------------------
+07-06-2025 12:03 - Ejecuci+好 del BULK INSERT iniciada
+
+(32543 rows affected)
+-------------------------------------------------------------
+10-06-2025 23:07 - Ejecuci+好 del BULK INSERT iniciada
+
+(7874 rows affected)
+-------------------------------------------------------------
+10-06-2025 23:14 - Ejecuci+好 del BULK INSERT iniciada
+
+(32627 rows affected)
+-------------------------------------------------------------
+19-06-2025 09:03 - Ejecuci+好 del BULK INSERT iniciada
+
+(8068 rows affected)
+-------------------------------------------------------------
+19-06-2025 09:34 - Ejecuci+好 del BULK INSERT iniciada
+
+(32934 rows affected)
+-------------------------------------------------------------
+23-06-2025 20:58 - Ejecuci+好 del BULK INSERT iniciada
+
+(8223 rows affected)
+-------------------------------------------------------------
+23-06-2025 21:06 - Ejecuci+好 del BULK INSERT iniciada
+
+(33194 rows affected)
+-------------------------------------------------------------

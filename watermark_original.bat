@@ -1,0 +1,1 @@
+magick convert -background #999999 -fill white -gravity center -size 320x30 caption:"Telmedia 2022" wiremold_1531.jpg +swap -gravity north -composite wiremold_1531.jpg
