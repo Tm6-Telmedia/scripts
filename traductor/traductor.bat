@@ -11,4 +11,4 @@ goto loop
 
 :ejecuta
 :: Ejecuta Bash pasando el texto limpio sin comillas
-\cygwin64\bin\bash.exe -l -c "/cygdrive/c/inetpub/Telmedia/Desarrollo/scripts/traductor/traductor.sh \"%texto:~1%\""
+\cygwin64\bin\bash.exe -l -c "/cygdrive/c/inetpub/Telmedia/TM6-scripts/traductor/traductor.sh \"%texto:~1%\""
