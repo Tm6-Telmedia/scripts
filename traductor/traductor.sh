@@ -24,7 +24,7 @@ fi
 # Escapa saltos de línea y comillas para JSON
 ESCAPED_TEXT=$(printf "%s" "$TEXTO" | sed ':a;N;$!ba;s/\n/\\n/g' | sed 's/"/\\"/g')
 
-# Tu clave de API
+# clave API
 API_KEY="sk-3246735f8b6746c988f7a950c2f4e23d"
 
 # Realiza la solicitud a la API
