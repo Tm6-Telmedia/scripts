@@ -11,4 +11,5 @@ goto loop
 
 :ejecuta
 :: Ejecuta Bash pasando el texto limpio sin comillas
-\cygwin64\bin\bash.exe -l -c "/cygdrive/c/inetpub/Telmedia/scripts/sube_productos.sh \"%texto:~1%\""
+::\cygwin64\bin\bash.exe -l -c "/cygdrive/c/inetpub/Telmedia/scripts/sube_productos.sh \"%texto:~1%\""
+\cygwin64\bin\bash.exe -l -c "/cygdrive/c/inetpub/Telmedia/scripts/sube_productos.sh %~1
