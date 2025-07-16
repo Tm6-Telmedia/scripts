@@ -47,3 +47,4 @@ done
 rm -f sku.tmp precio.tmp stock.tmp
 echo "CSV generado: $salida"
 sed s/USD/2/g <resultado.csv|sed s/MXN/1/g|awk '{print $0",39,728,2"}' > tecnosinergia.csv
+rm resultado.csv
