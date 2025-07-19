@@ -1,0 +1,22 @@
+**WordPress** es un **sistema de gestión de contenidos (CMS, por sus siglas en inglés)** de código abierto que permite crear y administrar sitios web de manera sencilla, sin necesidad de tener conocimientos avanzados de programación. Es una de las plataformas más populares del mundo, utilizada para blogs, tiendas en línea, portafolios, páginas corporativas y más.
+
+### **Características principales de WordPress:**
+1. **Fácil de usar**: Tiene una interfaz intuitiva para gestionar contenido (publicaciones, páginas, imágenes, etc.).
+2. **Personalizable**: Permite cambiar el diseño con **temas (themes)** y añadir funcionalidades con **plugins**.
+3. **Gratis y de código abierto**: Su núcleo es gratuito, pero algunos temas y plugins pueden ser de pago.
+4. **SEO-friendly**: Optimizado para motores de búsqueda como Google.
+5. **Comunidad activa**: Gran soporte en foros, tutoriales y documentación.
+6. **Multilingüe**: Disponible en español y otros idiomas.
+
+### **Tipos de WordPress:**
+- **WordPress.org (autohospedado)**: Requiere alojamiento web (hosting) y dominio, pero ofrece total control.
+- **WordPress.com (servicio alojado)**: Versión simplificada con planes gratuitos y de pago (menos flexibilidad).
+
+### **Usos comunes:**
+- Blogs personales o profesionales.
+- Sitios web empresariales.
+- Tiendas en línea (con WooCommerce).
+- Portafolios digitales.
+- Foros y redes sociales.
+
+Es ideal para quienes buscan **flexibilidad, escalabilidad y facilidad de uso**. ¿Necesitas ayuda con algo específico sobre WordPress? 😊
