@@ -34,7 +34,7 @@ curl -s https://api.deepseek.com/chat/completions \
   -d "{
         \"model\": \"deepseek-chat\",
         \"messages\": [
-          {\"role\": \"user\", \"content\": \"Correct capitalization in the following Spanish language text, just use uppercase where strictly necessary in proper names, after perios, etc. Don't explain, just respond with the correcteed text:\\n$ESCAPED_TEXT\"}
+          {\"role\": \"user\", \"content\": \"Correct capitalization in the following Spanish language text, just use uppercase where strictly necessary in proper names, acronyms, product numbers, after periods, etc. Don't explain, just respond with the correcteed text:\\n$ESCAPED_TEXT\"}
         ],
         \"stream\": false
       }" | jq -r '.choices[0].message.content' > capitalizacion.txt
