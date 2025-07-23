@@ -87,7 +87,7 @@ actualizar_sitio_publico() {
 		rsync -az /cygdrive/c/inetpub/Telmedia/TM6/tm/assets/img/banner/ root@10.240.128.6:/usr/share/nginx/html/tm4/public_html/tm/assets/img/banner/
 		rsync -az /cygdrive/c/inetpub/Telmedia/TM6/tm/assets/json/ root@10.240.128.6:/usr/share/nginx/html/tm4/public_html/tm/assets/json/
 		rsync -az /cygdrive/c/inetpub/Telmedia/TM6/productos/img2/ root@10.240.128.6:/usr/share/nginx/html/tm4/public_html/productos/img2/
-		rsync -az /cygdrive/c/inetpub/Telmedia/TM6/tm/ root@10.240.128.6:/usr/share/nginx/html/tm4/public_html/tm/
+		#rsync -az /cygdrive/c/inetpub/Telmedia/TM6/tm/ root@10.240.128.6:/usr/share/nginx/html/tm4/public_html/tm/
 		rsync -az /cygdrive/c/inetpub/Telmedia/TM6/sitemap.xml root@10.240.128.6:/usr/share/nginx/html/tm4/public_html/
 		ssh root@10.240.128.6 'sudo chown -R root:root /usr/share/nginx/html/tm4/ && sudo chmod -R 755 /usr/share/nginx/html/tm4/'
 		ssh root@10.240.128.6 '/usr/share/nginx/html/tm4/WGET_TM6.sh tm4'
